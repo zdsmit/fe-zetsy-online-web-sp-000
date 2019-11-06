@@ -36,3 +36,7 @@ h2 {
 p {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
+
+footer {
+	float: right;
+}
