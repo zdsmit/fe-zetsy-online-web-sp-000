@@ -23,6 +23,10 @@ body {
 
 /* Write all remaining styles here */
 
+.small {
+	font-size: 0.8em;
+}
+
 h1 {
 	font-size: 5em;
 	color: #98ada6;
